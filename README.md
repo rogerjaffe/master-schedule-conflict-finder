@@ -1,3 +1,9 @@
+Google spreadsheet with class data is at
+https://docs.google.com/spreadsheets/d/1-tv8ZaDitjv8uYMcV19Mn9CREbPcS2qVVjQMTn6hIH8/edit#gid=0
+rogerjaffe@mrjaffesclass.com account
+Master Schedule 2024-2025 folder
+
+
 # react-typescript-parcel-template
 
 React TypeScript Parcel Template.
